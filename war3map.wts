@@ -1,0 +1,99 @@
+STRING 50000
+{
+DotA v6.88c Allstars Beta
+}
+
+STRING 50001
+{
+Choose from 112 unique heroes in an epic battle to defend the Ancients.
+
+More information at |c001e90ffwww.D1stats.ru|r
+}
+
+STRING 50002
+{
+|c00ff0303The Sentinel|r
+}
+
+STRING 50003
+{
+|c0020c000The Scourge|r
+}
+
+STRING 50004
+{
+Testers Crew
+}
+
+STRING 50005
+{
+Quality manager: RokKnyaz
+People who help a lot with cleaning up map (alphabet order):
+RokKnyaz, soho, Zloy_xex, ActiveSync, [iTiMka], CrazyMadRedCow, Darren, DotaKid, ezen, Gba228, hul], MegaBlax, mmm1st, Plebei, polskabritva, Positiff, TLDM, umid2025
+}
+
+STRING 50006
+{
+Modes & Commands
+}
+
+STRING 50007
+{
+Full List:
+|c000042ffPlayDotA.com/learn/commands|r
+
+Game Modes:
+-allpick(-ap), -allrandom(-ar), -randomdraft (-rd), -singledraft(-sd), -deathmatch(-dm), -captainsmode(-cm), -moderandom(-mr), -voterandom(-vr), -reverse(-rv), -duplicatemode(-du), -shuffleplayers(-sp), -samehero(-sh), -allagility(-aa), -allintelligence(-ai), -allstrength(-as), -itemdrop(-id), -nopowerups(-np), -supercreeps(-sc), -onlymid(-om), -noswap(-ns), -norepick(-nr), -fastrespawn(-fr), -meleeonly(-mo), -rangeonly(-ro)
+
+Game Commands:
+-ma, -ms, -cs, -cson, -csoff, -disablehelp, -enablehelp, -unstuck, -swap, -showmsg, -hidemsg, -weather rain, -weather snow, -weather moonlight, -weather wind, -weather random, -weather off, -deathon(-don), -deathoff(-doff), -roll, -hideheronames(-hhn), -test, -mute, -gameinfo, -kickafk, -afk, -apm, -clear(-c), -swapall, -courier, -rolloff, -rollon, -music, -water, -bonus, -switch
+}
+
+STRING 50008
+{
+Credits and Contacts
+}
+
+STRING 50009
+{
+Lazy team lead: DracoL1ch
+Models and visuals: Santy Keller
+Head of Quality Assurance: RokKnyaz
+Memory hack by LeandroTP; improved by Karaul0v & DracoL1ch
+Special thanks to quq_CCCP, xpforever, K.U.R.T. and Kuarinofu.
+It could never happen without oldschool stuff: ResQ, LordShinjo, Lemon.
+Tons of people worked here before, including IceFrog.
+
+You can reach me through email |cc00042ffDracoL1ch@yandex.com|r or on the site (|c000042ffd1stats.ru|r)
+If you find any bugs, have suggestions, comments or questions please let me know.
+}
+
+STRING 50010
+{
+Latest Map
+}
+
+STRING 50011
+{
+|c000042ffhttp://D1Stats.ru|r to get the latest map.
+}
+
+STRING 50012
+{
+Single Player Test Commands
+}
+
+STRING 50013
+{
+Visit |c000042ffwww.d1stats.ru/testcmd.php|r to see detailed list.
+}
+
+STRING 50014
+{
+Bug Reporting
+}
+
+STRING 50015
+{
+Report any bugs to |c000042ffDracoL1ch@yandex.com|r, at our site: |c000042ffd1stats.ru/report.php|r or visit |c000042ffforum.d1stats.ru|r
+}
