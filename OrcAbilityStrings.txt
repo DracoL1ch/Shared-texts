@@ -1603,7 +1603,7 @@ effectsound=StormEarthFireSound
 animnames=spell,throw
 [Ntin]
 name=Tinker
-propernames=Boush,Boush,Boush,Boush,Boush,|c00FFFF00X!!|r,Boush
+propernames=Boush,Boush,Boush,Boush,Boush,|c00FFFF00X!!|r,Boush,Boush,Gazlowe
 tip="Tinker"
 ubertip="Goblin engineering was always innovative, but Boush brought it to such extreme that most refuse to believe that his powers lie in machines and rather think that he fights with magic. He can shoot focused light and homing projectiles as powerful and as flashy as most destructive Elven Arcane spells. It is said that not even best Necromancers can raise armies comparable to seemingly endless amount of clockwork goblins that Boush can easily summon. And while some refuse to believe in his machinery skills and other call him the master artist of engineering, none can deny the destructive force of this goblin.|n|n|c000042ffStrength|r - 17 + 2.0|n|c000042ffAgility|r - 13 + 1.2|n|c00ff0303Intelligence|r - 30 + 2.2|n|nLearns Laser, Heat Seeking Missile, March of the Machines, and |c00ff8000Rearm|r.|n|nAttack range of 500.|nMovement speed of 305."
 effectsoundlooped=ReplaceableTextures\CommandButtons\BTNHeroTinker.blp
