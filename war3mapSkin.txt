@@ -1,8 +1,8 @@
 ﻿[FrameDef]
 UPKEEP_NONE="v6.88c B0"
 REVIVE_AT_ALTAR=""
-DAMAGE_HERO=Type: |Cffff3d3dHero|R
-DAMAGE_CHAOS=Type: |Cffff3d3dHero|R
+DAMAGE_HERO=Type: |Cffff0000Hero|R
+DAMAGE_CHAOS=Type: |Cffff0000Hero|R
 DAMAGE_MELEE=Type: |cffffd500Basic|R
 DAMAGE_PIERCE=Type: |cffff9600Pierce|R
 DAMAGE_SIEGE=Type: |cffff1c8eSiege|R    
@@ -12,7 +12,7 @@ DAMAGETIP_MELEE=Damage is inflicted on different types of armor:|nHero - 75%|nBa
 DAMAGETIP_PIERCE=Damage is inflicted on different types of armor:|nHero - 50%|nBasic - 150%|nStructure - 35%
 DAMAGETIP_SIEGE=Damage is inflicted on different types of armor:|nHero - 85%|nBasic - 100%|nStructure - 150%
 ARMOR_FORT=Type: |cffff1c8eStructure|R
-ARMOR_HERO=Type: |Cffff3d3dHero|R
+ARMOR_HERO=Type: |Cffff0000Hero|R
 ARMOR_LARGE=Type: |cffffd500Basic|R
 ARMOR_MEDIUM=Type: |cffffd500Basic|R
 ARMOR_NORMAL=Type: |cffffd500Basic|R
