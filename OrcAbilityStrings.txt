@@ -13190,7 +13190,7 @@ animnames=spell,channel
 [A141]
 name="Glyph of Fortification Sentinel"
 tip="Activate Glyph of |cffffcc00F|rortification"
-ubertip="Gives a massive armor bonus to all your structures for 5 seconds. Cooldown being reset when your team loses any tier 1 tower.|n|cff99ccffTeam Cooldown: |r 5 Minutes"
+ubertip="Gives a massive armor bonus to all your structures for 5 seconds. A team's Glyph cooldown is instantly refreshed when they lose a Tier 1 tower.|n|n|cff99ccffDuration:|r  5|n|cff99ccffTeam Cooldown:|r  5 Minutes"
 hotkey=F
 art=ReplaceableTextures\CommandButtons\BTNGlyph
 buttonpos=3,0
@@ -13269,7 +13269,7 @@ buffart=ReplaceableTextures\CommandButtons\BTNThrallStrike
 [A1WI]
 name="Glyph of Fortification Scourge"
 tip="Activate Glyph of |cffffcc00F|rortification"
-ubertip="Gives a massive armor bonus to all your structures for 5 seconds. Cooldown being reset when your team loses any tier 1 tower.|n|cff99ccffTeam Cooldown: |r 5 Minutes"
+ubertip="Gives a massive armor bonus to all your structures for 5 seconds. A team's Glyph cooldown is instantly refreshed when they lose a Tier 1 tower.|n|n|cff99ccffDuration:|r  5|n|cff99ccffTeam Cooldown:|r  5 Minutes"
 hotkey=F
 art=ReplaceableTextures\CommandButtons\BTNGlyphScourge
 buttonpos=3,0
@@ -30973,8 +30973,8 @@ ubertip="+3 Strength|n|n|c00838B8BDeluxe version of Brass Knuckles"
 art=ReplaceableTextures\CommandButtons\BTNGauntletsOfOgrePower
 [h01G]
 name="Gem of True Sight"
-hotkey=I
-tip="Purchase Gem of True S|cffffcc00i|rght - 900"
+//hotkey=I
+tip="Purchase Gem of True Sight - 900"
 ubertip="A crystal that grants the hero true sight, which reveals nearby invisible units.|n|cff99ccffReplenish Time: |r 10 Minutes|n|n|c00ff0303Drops upon death|r|n|n|c00838B8BUnfortunately inedible"
 art=ReplaceableTextures\CommandButtons\BTNGem
 buttonpos=1,
@@ -31184,7 +31184,7 @@ buttonpos=1,0
 name="Ancient Tango of Essifation"
 hotkey=S
 tip="Purchase Ancient Tango of E|cffffcc00s|rsifation - 125"
-ubertip="Allows the bearer to consume a tree, restoring 115 hit points over 16 seconds. Can target an enemy ward, instantly destroying it. Every ward or Iron Branch Tree consumed grants twice as long buff duration. Cast range increased when targeting wards. 4 charges.|n|n|c00838B8BUser may experience dependence after prolonged usage"
+ubertip="Allows the bearer to consume a tree, restoring 115 hit points over 16 seconds. Can target an enemy ward, instantly destroying it. Every ward or Iron Branch Tree consumed grants twice as long buff duration. Cast range increased when targeting wards.|n|n|cff99ccffCharges:|r  4|n|n|c00838B8BUser may experience dependence after prolonged usage"
 art=ReplaceableTextures\CommandButtons\BTNAncientOfTheEarth
 buttonpos=2,0
 [h02B]
@@ -31197,15 +31197,15 @@ buttonpos=3,0
 [h02C]
 name="Observer Wards"
 hotkey=O
-tip="Purchase Observer Wards - 65"
-ubertip="Drops an Observer Ward to spy upon an area. Does not have True Sight.|nLasts 6 minutes.|nContains 1 charge.|n|n|cff99ccffStock Max: |r 4|n|cff99ccffReplenish Time: |r 2.5 Minutes"
+tip="Purchase |cffffcc00O|rbserver Wards - 65"
+ubertip="Drops an Observer Ward to spy upon an area. Does not have True Sight.|n|n|cff99ccffDuration:|r  6 Minutes|n|n|cff99ccffCharges:|r  1|n|cff99ccffStock Max:|r  4|n|cff99ccffReplenish Time:|r  2.5 Minutes"
 art=ReplaceableTextures\CommandButtons\BTNWardObs
 buttonpos=0,1
 [h02D]
 name="Sentry Wards"
 hotkey=W
 tip="Purchase Sentry |cffffcc00W|rards - 200"
-ubertip="Drops a Sentry Ward which gives truesight, revealing nearby invisible units and wards. Has very limited natural vision by itself.|nLasts 4 minutes.|nContains 2 charges."
+ubertip="Drops a Sentry Ward which gives truesight, revealing nearby invisible units and wards. Has very limited natural vision by itself.|n|n|cff99ccffDuration:|r  4 Minutes|n|cff99ccffCharges:|r  2"
 art=ReplaceableTextures\CommandButtons\BTNWardSen
 buttonpos=1,1
 [h02E]
@@ -32072,7 +32072,7 @@ buttonpos=3,1
 name="Dust of Appearance"
 hotkey=D
 tip="Purchase |cffffcc00D|rust of Appearance - 180"
-ubertip="Reveals enemy invisible units in an area around the Hero.|nContains 2 charges.|nLasts 12 seconds.|n|n|cff99ccffCooldown: |r 30|n|n|c00838B8BOff to never never land!|r"
+ubertip="Reveals enemy invisible units in an area around the Hero.|n|n|cff99ccffDuration:|r  12|n|cff99ccffCooldown: |r 30|n|cff99ccffCharges:|r  2|n|n|c00838B8BOff to never never land!|r"
 art=ReplaceableTextures\CommandButtons\BTNDustOfAppearance
 buttonpos=2,1
 [h077]
@@ -33195,15 +33195,15 @@ attachmentanimprops=large
 name="Spellcaster Blink Dummy"
 [h0CM]
 name="Orb of Venom"
-hotkey=O
-tip="Purchase |cffffcc00O|rrb of Venom - 275"
+hotkey=N
+tip="Purchase Orb of Ve|cffffcc00n|rom - 275"
 ubertip="Adds a poison effect to your attacks, dealing 3 damage per second and slowing enemy units for 4 seconds. 4% slow for ranged, 12% for melee."
 art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom
 buttonpos=2,
 [h0CN]
 name="Orb of Venom"
-hotkey=O
-tip="Purchase |cffffcc00O|rrb of Venom - 275"
+hotkey=N
+tip="Purchase Orb of Ve|cffffcc00n|rom - 275"
 ubertip="Adds a poison effect to your attacks, dealing 3 damage per second and slowing enemy units for 4 seconds. 4% slow for ranged, 12% for melee."
 art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom
 buttonpos=3,2
@@ -33321,7 +33321,7 @@ name="Ice Block"
 name="Smoke of Deceit"
 hotkey=K
 tip="Purchase Smo|cffffcc00k|re of Deceit - 50"
-ubertip="Makes you and nearby allies invisible in the world and from the minimap as well as a 15% bonus movement speed. Dispels when near enemy heroes or towers.|nLasts 35 seconds.|nContains 1 charge.|n|n|cff99ccffStock Max: |r 3|n|cff99ccffReplenish Time: |r 11 Minutes. Cooldown 1 second."
+ubertip="Makes you and nearby allies invisible in the world and from the minimap as well as a 15% bonus movement speed. Dispels when near enemy heroes or towers.|n|n|cff99ccffDuration:|r  35|n|cff99ccffCooldown:|r  1|n|n|cff99ccffCharges:|r  1|n|cff99ccffStock Max:|r  3|n|cff99ccffReplenish Time:|r  11 Minutes"
 art=ReplaceableTextures\CommandButtons\BTNSmokePotion
 buttonpos=3,1
 [h0D4]
@@ -33947,11 +33947,11 @@ name="|c00f00000You will only have 15 seconds after taverns become available to 
 name=Scan
 tip=S|cffffcc00c|ran
 hotkey=C
-ubertip="Scans a targeted 900 AoE for 8 seconds. Indicates whether there are enemy heroes in that area during the 8 seconds.|n|nStarts on cooldown and has a global team-wide cooldown of 4.5 minutes|n|nNote: Does not consider units inside the Roshan Pit, but does consider Smoked units. Does not show how many heroes there are, just if there are any enemies. Enemies do not know when your team casts it."
+ubertip="Scans a targeted 900 AoE for 8 seconds. Indicates whether there are enemy heroes in that area during the 8 seconds.|nChecks for enemy presence in 1 second intervals, starting immediately on use, resulting in 9 checks.|nDoes not consider hidden, invulnerable and inside the Roshan Pit enemy heroes, but does consider smoked and invisible.|nDoes not show how many heroes there are, just if there are any enemy hero. Does not give vision or reveal anything other than the presence of enemy heroes. Enemies do not know when your team casts it.|n|n|cff99ccffCast Range:|r  Global|n|cff99ccffRadius:|r  900|n|cff99ccffScan Interval:|r  1|n|cff99ccffDuration:|r  8|n|n|cff99ccffTeam Cooldown:|r  4.5 Minutes"
 art=ReplaceableTextures\CommandButtons\BTNReveal
 buttonpos=2,2
 [TX2R]
-name="%p has used Scan"
+name="%p has used |cffff0000Scan|r"
 [TX2U]
 name="|c00ff0000 Banning phase |r"
 [A3S3]
@@ -34174,7 +34174,7 @@ art=ReplaceableTextures\CommandButtons\BTNTomeRed
 [n137]
 name=Tome of Knowledge
 tip=Tome of Knowledge
-ubertip="|cffffcc00Gives:|r|n +425 experience"
+ubertip="+425 experience"
 art=ReplaceableTextures\CommandButtons\BTNTomeRed
 [TX30]
 name="has purchased Tome of Knowledge"
